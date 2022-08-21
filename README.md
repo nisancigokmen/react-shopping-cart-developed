@@ -1,6 +1,1 @@
 # Shopping-cart
-
-
-
-
-
