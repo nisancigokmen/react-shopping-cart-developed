@@ -1,12 +1,3 @@
 # Shopping-cart
 
 
-
-
-
-
-
-
-
-
-
